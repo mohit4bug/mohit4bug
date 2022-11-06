@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A passionate Developer from India 🇮🇳</h3>
+Hi 👋, I'm Mohit
+A passionate Developer from India 🇮🇳
 
 - 🌱 I’m currently learning **React, Express, Dsa(c++),etc.**
 
-- 👨‍💻 All of my projects are available at [mohit4bug.github.io/portfolio/](mohit4bug.github.io/portfolio/)
+- 👨‍💻 See more about me at [mohit4bug.github.io/portfolio/](mohit4bug.github.io/portfolio/)
 
 - 💬 Ask me about **React, Express, Css, JavaScript**
 
