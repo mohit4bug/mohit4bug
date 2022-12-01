@@ -4,7 +4,7 @@ A passionate Developer from India 🇮🇳
 
 - 🌱 I’m currently learning **React, Express, Dsa(c++),etc.**
 
-- 👨‍💻 See more about me at [mohit4bug.github.io/portfolio/](mohit4bug.github.io/portfolio/)
+- 👨‍💻 See more about me at [mohit4bug.github.io/portfolio/](https://mohit4bug.github.io/portfolio/)
 
 - 💬 Ask me about **React, Express, Css, JavaScript**
 
